@@ -18,3 +18,5 @@ Issue #2: "dataset = pd.read_excel(pwd + "\\Data - SurveyMonkey_edited.xlsx")" n
 Issue(?) #3: "dataset_modified.columns": Output exceeds the size limit... Not sure how to change that setting to a higher number but it's not that important(?)
 
 Commit #4: Committed properly, done for the night, continue the next day
+
+Commit #5: Finished project tutorial, no severe errors, final commit
