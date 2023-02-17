@@ -1,6 +1,9 @@
 # SurveyMonkey_Proj
 
-Commit Attempts
+First Attempt at following a tutorial and using GitHub to track progress and work across multiple devices
+
+
+git Commit Attempts
 
 Attempt #1: Committed properly
 
