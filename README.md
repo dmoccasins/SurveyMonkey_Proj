@@ -1,3 +1,9 @@
 # SurveyMonkey_Proj
 
-Attempt #1 to figure out Github and learning how to use git and VSS
+Commit Attempts
+
+Attempt #1: Committed properly
+
+Attempt #2: Failed to commit (had to close the current excel workbook before committing again)
+
+Attempt #3: Committed properly
